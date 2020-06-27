@@ -1,3 +1,4 @@
+// Making a change on GitHub to follow process through
 // Create a tray object 
 class Tray {
   constructor (traySize, trayContents, trayWeight, trayComment, trayAddress) {
